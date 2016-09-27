@@ -3,7 +3,7 @@ Created on 27 wrz 2016
 
 @author: student
 '''
-def czesc1():
+def first_part():
     data = {'file_name':'', 'poprawny':'', 'niepoprawny':''}
     data['file_name'] = raw_input("Podaj nazwe pliku")
     data['poprawny'] = raw_input("Podaj poprawny")
